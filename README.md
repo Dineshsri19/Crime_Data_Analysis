@@ -17,7 +17,7 @@ An interactive Power BI dashboard visualizing crime trends across Tamil Nadu fro
 - Dataset: Public domain/state-level crime data
 
 ## 🖼️ Preview
-![Dashboard Screenshot](![Crime_Data_Screenshot](https://github.com/user-attachments/assets/faff0e52-6076-4a05-b4ce-000540c13150))
+![Dashboard Screenshot](https://github.com/Dineshsri19/Crime_Data_Analysis/blob/main/Crime_Data_Screenshot.png)
 
 ## 🔗 Author
 **Dinesh R**  
