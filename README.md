@@ -4,7 +4,7 @@ Power BI dashboard analysing Tamil Nadu Crime data (2014 - 2022)
 ## 📊 About
 An interactive Power BI dashboard visualizing crime trends across Tamil Nadu from 2014 to 2022. Includes analysis by year, district, and offense type using visuals like maps, bar charts, KPIs, and filters.
 
-## 🚀 Features
+## 🚀 Features 
 - Year-wise and district-wise crime analysis
 - Category breakdown (Theft, Cheating, Child Murder, etc.)
 - Map visualization of total crime
